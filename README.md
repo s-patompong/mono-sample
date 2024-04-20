@@ -1,11 +1,7 @@
 # Mono Console
-
----
-
 A sample app that runs inside mono docker image. It allows us to build and execute .net application using mono.
 
 ## Instructions
-
 1. Clone this repo
 2. Make sure Docker is installed and open on your machine
 3. Execute a command in build-image.sh file, if you're on linux you can do `./build-image.sh` but on windows you might need to copy the command and run it manually.
